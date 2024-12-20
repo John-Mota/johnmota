@@ -13,36 +13,16 @@ Apaixonado por tecnologia e desenvolvimento de software, busco sempre criar solu
 - **Bancos de dados**: PostgreSQL, MySQL
 - **Ferramentas**: Git, GitHub, Docker, Jenkins
 
-<br>
-<br>
-<br>
+##
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <a href="https://github.com/John-Mota">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=John-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 2em;">
+  <a  href="https://github.com/John-Mota">
+    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=John-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/John-Mota">
+  <a  href="https://github.com/John-Mota">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Mota&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
-
-<br>
-<br>
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-</div>
-
-## 📈 Meus projetos
-
-- **[Portfólio](https://github.com/John-Mota/portifolioJohnMota)**: Projeto desenvolvido com Angular, CSS e HTML.
-- **[API Portfólio](https://github.com/John-Mota/api-portifolio)**: Projeto desenvolvido com Next.js para criação de uma API de portfólio.
 
 ## 📫 Como me encontrar
 
